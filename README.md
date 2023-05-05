@@ -1,6 +1,6 @@
 # pokedex
 📚 Pokedex com HTML, CSS e JavaScript
-Este projeto é uma Pokedex feita com HTML, CSS e JavaScript. O objetivo é permitir que os usuários possam procurar informações sobre diferentes Pokémons, como suas estatísticas, habilidades e movimentos.
+Este projeto é uma Pokedex feita com HTML, CSS e JavaScript com uso da pokeapi. O objetivo é permitir que os usuários possam procurar informações sobre diferentes Pokémons, como suas estatísticas, habilidades e movimentos.
 
 🚀 Instalação
 Para utilizar o projeto, basta acessar o link: https://mauriciodevjs.github.io/pokedex/
